@@ -4,7 +4,7 @@ metadata:
   name: ${{ values.name | dump }}
   annotations:
     github.com/project-slug: 'vinodrec2004/test-vino'
-    backstage.io/kubernetes-id: 'dice-roller'
+    backstage.io/kubernetes-id: 'test-container-8'
 spec:
   type: service
   owner: user:guest
